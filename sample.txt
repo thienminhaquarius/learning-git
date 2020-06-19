@@ -1,5 +1,3 @@
 ﻿Đến cả con khỉ cũng hiểu được lệnh Git
 
 add: Dang ky thay doi trong index
-
-add complict
