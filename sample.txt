@@ -2,4 +2,4 @@
 
 add: Dang ky thay doi trong index
 
-add: complict content2
+delete
